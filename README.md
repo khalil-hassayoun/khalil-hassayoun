@@ -38,5 +38,5 @@
 </div>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Brandixitor&&style=flat-square" align="right" />
+  <img src="https://komarev.com/ghpvc/?username=khalil-hassayoun&&style=flat-square" align="right" />
 </div>
