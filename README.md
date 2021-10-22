@@ -36,3 +36,7 @@
   <img style="margin: 10px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" height="50" /> 
 </br>
 </div>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Brandixitor&&style=flat-square" align="right" />
+</div>
