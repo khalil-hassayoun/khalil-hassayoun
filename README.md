@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a few websites
 - 🌱 I’m currently learning front-end web development
 - 💬 Ask me about crypto currency
-- 📫 How to reach me: kahlilouhassayoun@gmail.com
+- 📫 How to reach me: khalilouhassayoun@gmail.com
 - ⚡ Fun fact: i'm smarter than i look
 
 <p align="center">
