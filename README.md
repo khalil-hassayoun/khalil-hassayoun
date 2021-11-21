@@ -2,7 +2,7 @@
 
 ### 
 - 🔭 I’m currently working on a few websites
-- 🌱 I’m currently learning front-end web development
+- 🌱 I’m currently learning full-stack web development
 - 💬 Ask me about crypto currency
 - 📫 How to reach me: khalilouhassayoun@gmail.com
 - ⚡ Fun fact: i'm smarter than i look
