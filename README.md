@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 
-- 🔭 I’m currently working on a few websites
+- 🔭 I’m a software Engineer
 - 🌱 I’m currently learning full-stack web development
 - 💬 this is my linkedin : https://www.linkedin.com/in/khalil-hassayoun-9600361b9/
 - 📫 How to reach me: khalilouhassayoun@gmail.com
