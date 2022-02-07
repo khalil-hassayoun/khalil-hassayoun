@@ -3,7 +3,7 @@
 ### 
 - 🔭 I’m currently working on a few websites
 - 🌱 I’m currently learning full-stack web development
-- 💬 Ask me about crypto currency
+- 💬 this is my linkedin : https://www.linkedin.com/in/khalil-hassayoun-9600361b9/
 - 📫 How to reach me: khalilouhassayoun@gmail.com
 - ⚡ Fun fact: i'm smarter than i look
 
