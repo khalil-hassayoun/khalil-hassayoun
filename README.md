@@ -29,7 +29,7 @@
 <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalil-hassayoun&show_icons=true&locale=en" alt="farouksouei" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalil-hassayoun&show_icons=true&locale=en" alt="khalil-hassayoun" /></p>
 
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
