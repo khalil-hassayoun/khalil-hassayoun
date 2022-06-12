@@ -7,6 +7,8 @@
 - 📫 How to reach me: khalilouhassayoun@gmail.com
 - ⚡ Fun fact: i'm smarter than i look
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalil-hassayoun" alt="khalil-hassayoun" /></a> </p>
+
 <p align="center">
  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=khalil-hassayoun&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true&hide=prs,issues">
   <img width="252" height="200"
