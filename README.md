@@ -39,4 +39,4 @@
   <img style="margin: 10px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" height="50" /> 
 </br>
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalil-hassayoun" alt="khalil-hassayoun" /></a> </p>
+
